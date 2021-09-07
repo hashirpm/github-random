@@ -20,15 +20,16 @@ git clone https://github.com/hashirpm/github-random.git
 
 4. Run ```npm install``` to install all the dependencies
 
-5. Install the script globally : 
+5. Install the script globally. 
 ```
 npm install -g .
 ```
 
 6. Open Terminal
 
-7. Run ```grandom -s <search>``` to run the script
-    For Example, if you want a random repository in Dart, Run ```grandom -s dart```
+7. Run ```grandom -s <search>``` to run the script.
+<br>
+For Example, if you want a random repository in Dart, Run ```grandom -s dart```
 
 ## 🖋 Contribute
 	
@@ -41,7 +42,7 @@ npm install -g .
 [Muhammed Hashir](https://github.com/hashirpm) 
 
 <a>
-	<img src="https://contrib.rocks/image?repo=hashirpm/github-resume" />
+	<img src="https://contrib.rocks/image?repo=hashirpm/github-random" />
 </a>
 
 <p align="center">
