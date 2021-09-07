@@ -28,7 +28,7 @@ npm install -g .
 6. Open Terminal
 
 7. Run ```grandom -s <search>``` to run the script.
-<br>
+
 For Example, if you want a random repository in Dart, Run ```grandom -s dart```
 
 ## 🖋 Contribute
