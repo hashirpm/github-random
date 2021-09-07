@@ -29,7 +29,7 @@ npm install -g .
 
 7. Run ```grandom -s <search>``` to run the script.
 
-For Example, if you want a random repository in Dart, Run ```grandom -s dart```
+ For Example, if you want a random repository in Dart, Run ```grandom -s dart```
 
 ## 🖋 Contribute
 	
@@ -41,9 +41,6 @@ For Example, if you want a random repository in Dart, Run ```grandom -s dart```
 ## Contributors
 [Muhammed Hashir](https://github.com/hashirpm) 
 
-<a>
-	<img src="https://contrib.rocks/image?repo=hashirpm/github-random" />
-</a>
 
 <p align="center">
 	Made with :heart: by xDev
